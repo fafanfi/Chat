@@ -10,4 +10,6 @@ Pertama compile file Server.java dan jalankan. Kedua compile file Client.java da
 Kalau perlu juga buat Class KeyListener untuk menghandle tombol `Enter` menggantikan tombol Send di aplikasi.<br>
 <br>
 <br>
-Tutorial: https://www.codejava.net/java-se/networking/how-to-create-a-chat-console-application-in-java-using-socket
+Tutorial: https://www.codejava.net/java-se/networking/how-to-create-a-chat-console-application-in-java-using-socket<br>
+<br>
+**Check [My Gist too](https://gist.github.com/fafanfi)**
