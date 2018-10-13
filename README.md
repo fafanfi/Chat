@@ -1,5 +1,4 @@
-# Simple-Chat<br>
-<br>
+# Simple-Chat
 ![Sample Chat](https://c1.staticflickr.com/2/1947/45229478822_3dc49bd214_b.jpg)<br>
 <br>
 Belajar implementasi socket dari aplikasi Chat sederhana, dan bagaimana dasar mekanisme komunikasi client-server di aplikasi chatting hanya menggunakan socket programming (terutama di java).<br>
